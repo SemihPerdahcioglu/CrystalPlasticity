@@ -3,7 +3,7 @@
 This is a python implementation of the crystal plasticity stress update algorithm using the *interior point method*.
 The background of this method and details of the theory and implementation can be found in:
 
-E.S. Perdahcıoğlu,*A rate-independent crystal plasticity algorithm based on the interior point method*, Computer Methods in Applied Mechanics and Engineering, Volume 418, Part A,
+E.S. Perdahcıoğlu, *A rate-independent crystal plasticity algorithm based on the interior point method*, Computer Methods in Applied Mechanics and Engineering, Volume 418, Part A,
 2024, 116533, ISSN 0045-7825, [DOI](https://doi.org/10.1016/j.cma.2023.116533).
 
 The intent of publishing this code is to present the implementation in a readable manner and verify the examples shown in the article. It is not intended to be an efficient implementation of the method.
